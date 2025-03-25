@@ -48,12 +48,6 @@ NSSF Deductions
 Gross salary
 Net salary
 
-How to Use
-
-Clone the repository
-Navigate to individual challenge folders
-Run JavaScript files using Node.js
-
 Submission Requirements
 
 Complete all challenges
